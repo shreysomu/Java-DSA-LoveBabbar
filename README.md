@@ -1,0 +1,1 @@
+Lecture 41 : [Allocate Minimum Pages - GFG](https://www.geeksforgeeks.org/problems/allocate-minimum-number-of-pages0937/1)     [solution](https://github.com/shreysomu/Java-DSA-LoveBabbar/blob/main/lecture41/AllocateMinimumPages.java)
